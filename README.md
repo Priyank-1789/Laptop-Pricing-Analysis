@@ -1,4 +1,3 @@
-readme_content = """
 # Laptop-Pricing-Analysis
 
 ## 📌 Project Overview
@@ -49,10 +48,3 @@ Feel free to fork the repository, raise issues, or contribute improvements!
 This project is open-source and available under the **MIT License**.
 
 🚀 Happy Coding! 😊
-"""
-
-# Save to a README file
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme_content)
-
-print("README.md file has been created successfully!")
